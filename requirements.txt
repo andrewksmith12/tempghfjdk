@@ -1,0 +1,54 @@
+blis==0.7.4
+boto3==1.18.11
+botocore==1.21.11
+cachelib==0.2.0
+catalogue==2.0.4
+certifi==2021.5.30
+charset-normalizer==2.0.3
+click==7.1.2
+conllu==4.4
+cymem==2.0.5
+en-ner-bc5cdr-md @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_bc5cdr_md-0.4.0.tar.gz
+en-ner-bionlp13cg-md @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_bionlp13cg_md-0.4.0.tar.gz
+en-ner-craft-md @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_craft_md-0.4.0.tar.gz
+en-ner-jnlpba-md @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_jnlpba_md-0.4.0.tar.gz
+Flask==2.0.1
+Flask-Session==0.4.0
+idna==3.2
+itsdangerous==2.0.1
+Jinja2==3.0.1
+jmespath==0.10.0
+joblib==1.0.1
+MarkupSafe==2.0.1
+murmurhash==1.0.5
+nmslib==2.1.1
+numpy==1.21.1
+packaging==21.0
+pandas==1.3.1
+pathy==0.6.0
+preshed==3.0.5
+psutil==5.8.0
+pybind11==2.6.1
+pydantic==1.8.2
+pyparsing==2.4.7
+pysbd==0.3.4
+python-dateutil==2.8.2
+pytz==2021.1
+requests==2.26.0
+s3transfer==0.5.0
+scikit-learn==0.24.2
+scipy==1.7.0
+scispacy==0.4.0
+six==1.16.0
+smart-open==5.1.0
+spacy==3.0.7
+spacy-legacy==3.0.8
+srsly==2.4.1
+thinc==8.0.8
+threadpoolctl==2.2.0
+tqdm==4.62.0
+typer==0.3.2
+typing-extensions==3.10.0.0
+urllib3==1.26.6
+wasabi==0.8.2
+Werkzeug==2.0.1
