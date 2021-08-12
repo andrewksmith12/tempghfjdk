@@ -9,7 +9,7 @@ from werkzeug.utils import secure_filename
 from scispaCyNER import createSpacyOutput
 
 # Static variables describing where the data is.
-s3_bucket = "amat-single-bucket-pipeline"
+s3_bucket = "moving-to-lilly"
 source_prefix = "source/"
 transcribe_prefix = "transcribe/"
 spacy_prefix = "spacy/"
